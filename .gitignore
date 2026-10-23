@@ -1,0 +1,8 @@
+# Downloaded datasets and training by-products
+data/FashionMNIST/
+data/jena.zip
+data/jena_climate_2009_2016.csv
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
